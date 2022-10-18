@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="kitkit">KitKit</string>
+    <string name="todo">TODO</string>
+    <string name="lorem_ipsum_is_simply_dummy_text_of_the_printing_and_typesetting">Lorem Ipsum is simply dummy text of the printing and typesetting</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="log_in_with_account">Log In With Account</string>
+    <string name="fitkit"><u>FitKit</u></string>
+    <string name="fit">Fit</string>
+    <string name="kit"><u>Kit</u></string>
+    <string name="gender">Gender</string>
+    <string name="male">male</string>
+    <string name="female">female</string>
+    <string name="next">NEXT</string>
+    <string name="to_give_you_a_better_experience_we_need_to_know_your_gender">To give you a better experience we need to know your Gender</string>
+    <string name="prod_by">Prod. by Nuk Tursunaliev</string>
+    <string name="menu_icon">menu__icon</string>
+    <string name="home">Home</string>
+    <string name="search">search</string>
+    <string name="workout_exercises">Workout Exercises</string>
+    <string name="abs_perfection">abs__perfection</string>
+    <string name="good_cardio">good_cardio</string>
+    <string name="arms_stretching">arms_stretching</string>
+    <string name="training_plan">Training Plan</string>
+    <string name="shoulder_press">Shoulder Press</string>
+    <string name="gym_attribute">gym_attribute</string>
+    <string name="shoulder_press_description">Walking is simple, yet powerful exercise for your body</string>
+    <string name="jogging">Jogging</string>
+    <string name="walking_is_simple_yet_powerful_exercise_for_your_body">Walking is simple, yet powerful exercise for your body</string>
+    <string name="bell">bell</string>
+    <string name="man">man</string>
+    <string name="chat">chat</string>
+    <string name="title_activity_notifications_actitvity">NotificationsActitvity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>

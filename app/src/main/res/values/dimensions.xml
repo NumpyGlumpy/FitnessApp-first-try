@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <dimen name="logoLetterSpacing">0.2</dimen>
+    <dimen name="LogoTextSize">60sp</dimen>
+    <dimen name="redButtonTextSize">24sp</dimen>
+    <dimen name="RedButtonSize">24sp</dimen>
+    <dimen name="gender">36sp</dimen>
+    <dimen name="exercises_description">14sp</dimen>
+    <dimen name="genderPolicy">18sp</dimen>
+    <dimen name="subtitleSize">16sp</dimen>
+</resources>
